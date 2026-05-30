@@ -19,8 +19,6 @@ A voice-controlled desktop automation system that executes system-level tasks us
 - Speech Recognition
 - OS Automation
 
-## Demo
-(Add your video here)
 
 ## Author
 Karthikeya Kinthada
