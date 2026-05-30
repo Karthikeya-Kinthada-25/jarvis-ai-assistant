@@ -22,3 +22,10 @@ A voice-controlled desktop automation system that executes system-level tasks us
 
 ## Author
 Karthikeya Kinthada
+
+## System Requirements
+
+- Windows OS
+- Microphone access
+- Internet connection (for speech recognition)
+- Local AI model (Ollama running LLaMA3)
